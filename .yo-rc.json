@@ -1,0 +1,11 @@
+{
+  "generator-springboot": {
+    "appName": "starai-horoscope-matching-service",
+    "packageName": "com.starai.api.horoscopematching",
+    "databaseType": "postgresql",
+    "dbMigrationTool": "none",
+    "features": [],
+    "buildTool": "maven",
+    "packageFolder": "com/starai/api/horoscopematching"
+  }
+}
